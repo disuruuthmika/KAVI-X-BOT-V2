@@ -1,6 +1,6 @@
 {
-    "name": "KAVI-X-V2",
-    "description": "KAVI-X BOT MD WhatsApp Bot Create By Cyber Kavi !",
+    "name": "FILM ZONE",
+    "description": "FILM ZONE WhatsApp Bot Create By Sadesha Hansana !",
     "logo": "https://raw.githubusercontent.com/KaviDeveloperSe/KAVI-X-BOT-DB/refs/heads/main/kavix03.png",
     "keywords": ["multi-device", "whatsapp-bot", "baileys", "kavixbot", "kavix", "kavibot", "kavideveloper", "kavideveloperse"],
     "success_url": "/",
@@ -18,7 +18,7 @@
         "BOTNAME": {
             "description": "Name of your bot",
             "required": false,
-            "value": "KAVI-X MD"
+            "value": "FILM ZONE"
         },
         "OWNERNUMBER": {
             "description": "Owner's WhatsApp number (without @s.whatsapp.net)",
@@ -28,17 +28,17 @@
         "OWNERNAME": {
             "description": "Owner's name",
             "required": false,
-            "value": "Cyber Kavi"
+            "value": "Sadesha Hansana"
         },
         "PACKNAME": {
             "description": "Sticker pack name",
             "required": false,
-            "value": "KAVI-X MD"
+            "value": "FILM ZONE"
         },
         "AUTHOR": {
             "description": "Author name for sticker metadata",
             "required": false,
-            "value": "Cyber Kavi"
+            "value": "Sadesha Hansana"
         },
         "CREATOR": {
             "description": "Creator JID (include @s.whatsapp.net)",
