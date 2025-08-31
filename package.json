@@ -1,17 +1,17 @@
 {
-    "name": "KAVI-X-V2",
+    "name": "FILM ZONE",
     "version": "1.0.0",
-    "description": "KAVI-X is a powerful WhatsApp bot developed by Cyber Kavi.",
+    "description": "FILM ZONE is a powerful WhatsApp bot developed by Sadesha Hansana.",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
-        "start": "pm2 start index.js --deep-monitoring --attach --name KAVI-X-V2",
-        "stop": "pm2 stop KAVI-X-V2",
-        "restart": "pm2 restart KAVI-X-V2",
-        "delete": "pm2 delete KAVI-X-V2",
+        "start": "pm2 start index.js --deep-monitoring --attach --name FILM ZONE",
+        "stop": "pm2 stop FILM ZONE",
+        "restart": "pm2 restart FILM ZONE",
+        "delete": "pm2 delete FILM ZONE",
         "dev": "node index.js"
     },
-    "author": "Cyber Kavi",
+    "author": "Sadesha Hansana",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
